@@ -4,7 +4,7 @@
 
 **Play it:** https://Evin016111.github.io/YOUR-REPO-NAME/
 
-**Made by:** Mr. Cruz
+**Made by:** evin
 
 ## The game
 get to your first period on time
