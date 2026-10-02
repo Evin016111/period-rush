@@ -2,7 +2,7 @@
 
 <!-- ✏️ Replace everything in this file with YOUR game's info. Keep the headings. -->
 
-**Play it:** https://Evin016111.github.io/YOUR-REPO-NAME/
+**Play it:** https://Evin016111.github.io/period-rush/
 
 **Made by:** evin
 
